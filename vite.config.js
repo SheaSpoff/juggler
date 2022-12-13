@@ -1,3 +1,4 @@
+
 /** @type {import('vite').UserConfig} */
 import path from 'path'
 import { defineConfig } from 'vite'
